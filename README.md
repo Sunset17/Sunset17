@@ -1,4 +1,4 @@
-  #Title (Happydaze tradings cards).
+    #Title (Happydaze tradings cards).
 ##.trying to learn more about how to use this technology 
 ...too many questions about it to make a decision 
     ###
